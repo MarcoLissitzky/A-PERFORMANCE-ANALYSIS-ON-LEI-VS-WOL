@@ -7,7 +7,7 @@ warnings.filterwarnings('ignore')
 
 def get_passing_data(match_url):
     print("\n" + "="*50)
-    print("🚀 SCENE 1: FETCHING RAW DATA 🚀")
+    print("SCENE 1: FETCHING RAW DATA")
     print("="*50)
 
     # 1. 获取比赛 ID

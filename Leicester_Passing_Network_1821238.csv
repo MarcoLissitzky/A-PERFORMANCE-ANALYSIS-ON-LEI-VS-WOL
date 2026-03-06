@@ -1,0 +1,497 @@
+﻿minute,player_id,player,receiver_id,receiver,x,y
+0,318750.0,Stephy Mavididi,433572.0,Bilal El Khannouss,55.2,97.5
+1,416970.0,Victor Kristiansen,433572.0,Bilal El Khannouss,49.9,100.0
+1,433572.0,Bilal El Khannouss,416970.0,Victor Kristiansen,56.7,92.3
+1,87182.0,Jannik Vestergaard,416970.0,Victor Kristiansen,22.2,83.3
+2,301441.0,James Justin,364215.0,Oliver Skipp,16.6,0.0
+2,364215.0,Oliver Skipp,301441.0,James Justin,26.2,12.9
+2,301441.0,James Justin,97710.0,Conor Coady,15.6,3.4
+3,416970.0,Victor Kristiansen,318750.0,Stephy Mavididi,53.1,100.0
+3,67491.0,Jordan Ayew,301441.0,James Justin,35.3,7.0
+3,301441.0,James Justin,97710.0,Conor Coady,27.6,4.0
+3,97710.0,Conor Coady,99165.0,Danny Ward,22.4,13.5
+3,99165.0,Danny Ward,416970.0,Victor Kristiansen,4.8,42.4
+3,416970.0,Victor Kristiansen,87182.0,Jannik Vestergaard,15.4,73.2
+3,87182.0,Jannik Vestergaard,345664.0,Boubakary Soumaré,22.4,62.1
+3,345664.0,Boubakary Soumaré,416970.0,Victor Kristiansen,26.5,86.8
+4,416970.0,Victor Kristiansen,87182.0,Jannik Vestergaard,26.7,94.8
+4,87182.0,Jannik Vestergaard,345664.0,Boubakary Soumaré,18.3,77.3
+4,345664.0,Boubakary Soumaré,87182.0,Jannik Vestergaard,28.5,75.9
+4,87182.0,Jannik Vestergaard,364215.0,Oliver Skipp,20.0,71.1
+4,364215.0,Oliver Skipp,99165.0,Danny Ward,24.3,60.3
+4,99165.0,Danny Ward,87182.0,Jannik Vestergaard,12.2,47.0
+4,87182.0,Jannik Vestergaard,99165.0,Danny Ward,17.8,58.7
+4,99165.0,Danny Ward,301441.0,James Justin,10.2,33.9
+4,318750.0,Stephy Mavididi,416970.0,Victor Kristiansen,62.4,71.4
+4,416970.0,Victor Kristiansen,433572.0,Bilal El Khannouss,53.1,70.5
+4,87182.0,Jannik Vestergaard,433572.0,Bilal El Khannouss,42.6,64.5
+5,433572.0,Bilal El Khannouss,318750.0,Stephy Mavididi,57.0,90.2
+5,318750.0,Stephy Mavididi,433572.0,Bilal El Khannouss,72.8,91.4
+5,433572.0,Bilal El Khannouss,345664.0,Boubakary Soumaré,72.8,81.2
+5,345664.0,Boubakary Soumaré,416970.0,Victor Kristiansen,65.3,94.1
+5,416970.0,Victor Kristiansen,87182.0,Jannik Vestergaard,46.9,80.9
+5,87182.0,Jannik Vestergaard,345664.0,Boubakary Soumaré,46.3,59.1
+5,345664.0,Boubakary Soumaré,318750.0,Stephy Mavididi,55.6,89.7
+5,318750.0,Stephy Mavididi,345664.0,Boubakary Soumaré,68.4,95.4
+5,345664.0,Boubakary Soumaré,87182.0,Jannik Vestergaard,54.2,73.9
+5,87182.0,Jannik Vestergaard,97710.0,Conor Coady,48.0,46.0
+5,97710.0,Conor Coady,301441.0,James Justin,62.9,17.0
+5,301441.0,James Justin,97710.0,Conor Coady,74.4,4.1
+5,97710.0,Conor Coady,87182.0,Jannik Vestergaard,65.5,9.7
+5,87182.0,Jannik Vestergaard,345664.0,Boubakary Soumaré,55.2,34.5
+5,345664.0,Boubakary Soumaré,87182.0,Jannik Vestergaard,64.8,41.5
+5,87182.0,Jannik Vestergaard,416970.0,Victor Kristiansen,55.8,35.1
+5,416970.0,Victor Kristiansen,433572.0,Bilal El Khannouss,56.2,71.4
+5,433572.0,Bilal El Khannouss,345664.0,Boubakary Soumaré,68.9,85.3
+5,345664.0,Boubakary Soumaré,364215.0,Oliver Skipp,67.7,66.0
+5,364215.0,Oliver Skipp,67491.0,Jordan Ayew,61.7,47.5
+5,67491.0,Jordan Ayew,364215.0,Oliver Skipp,73.5,38.9
+5,364215.0,Oliver Skipp,301441.0,James Justin,63.6,19.1
+5,364215.0,Oliver Skipp,87182.0,Jannik Vestergaard,67.6,23.3
+6,87182.0,Jannik Vestergaard,97710.0,Conor Coady,53.7,38.2
+6,97710.0,Conor Coady,87182.0,Jannik Vestergaard,58.2,24.1
+6,87182.0,Jannik Vestergaard,364215.0,Oliver Skipp,55.0,41.0
+7,416970.0,Victor Kristiansen,433572.0,Bilal El Khannouss,70.1,100.0
+7,433572.0,Bilal El Khannouss,416970.0,Victor Kristiansen,62.6,96.6
+7,416970.0,Victor Kristiansen,433572.0,Bilal El Khannouss,70.0,97.7
+7,433572.0,Bilal El Khannouss,97710.0,Conor Coady,61.8,95.3
+7,97710.0,Conor Coady,301441.0,James Justin,53.2,40.9
+7,301441.0,James Justin,97710.0,Conor Coady,69.4,16.7
+7,97710.0,Conor Coady,87182.0,Jannik Vestergaard,53.5,28.3
+7,87182.0,Jannik Vestergaard,99165.0,Danny Ward,46.6,44.0
+7,99165.0,Danny Ward,416970.0,Victor Kristiansen,22.8,51.6
+7,416970.0,Victor Kristiansen,433572.0,Bilal El Khannouss,27.1,77.0
+7,416970.0,Victor Kristiansen,364215.0,Oliver Skipp,57.6,77.0
+8,364215.0,Oliver Skipp,97710.0,Conor Coady,61.1,64.5
+8,97710.0,Conor Coady,87182.0,Jannik Vestergaard,48.5,44.5
+8,87182.0,Jannik Vestergaard,345664.0,Boubakary Soumaré,45.7,56.9
+8,345664.0,Boubakary Soumaré,416970.0,Victor Kristiansen,54.9,59.6
+8,416970.0,Victor Kristiansen,87182.0,Jannik Vestergaard,47.4,74.1
+8,87182.0,Jannik Vestergaard,99165.0,Danny Ward,44.3,54.0
+8,99165.0,Danny Ward,301441.0,James Justin,19.0,44.3
+8,345664.0,Boubakary Soumaré,301441.0,James Justin,43.9,28.0
+8,301441.0,James Justin,345664.0,Boubakary Soumaré,34.7,15.6
+8,345664.0,Boubakary Soumaré,97710.0,Conor Coady,42.0,27.3
+8,97710.0,Conor Coady,87182.0,Jannik Vestergaard,35.9,31.9
+8,87182.0,Jannik Vestergaard,416970.0,Victor Kristiansen,31.3,51.9
+8,416970.0,Victor Kristiansen,87182.0,Jannik Vestergaard,38.6,78.1
+8,87182.0,Jannik Vestergaard,99165.0,Danny Ward,29.9,49.9
+9,87182.0,Jannik Vestergaard,364215.0,Oliver Skipp,22.9,44.0
+9,364215.0,Oliver Skipp,87182.0,Jannik Vestergaard,30.1,43.8
+9,87182.0,Jannik Vestergaard,106981.0,Jamie Vardy,25.8,46.4
+10,87182.0,Jannik Vestergaard,99165.0,Danny Ward,5.6,71.4
+10,99165.0,Danny Ward,97710.0,Conor Coady,3.0,51.0
+10,97710.0,Conor Coady,301441.0,James Justin,6.7,17.6
+10,87182.0,Jannik Vestergaard,99165.0,Danny Ward,5.3,60.7
+14,87182.0,Jannik Vestergaard,99165.0,Danny Ward,18.0,79.4
+14,99165.0,Danny Ward,301441.0,James Justin,2.6,47.3
+15,97710.0,Conor Coady,87182.0,Jannik Vestergaard,27.9,27.2
+15,87182.0,Jannik Vestergaard,416970.0,Victor Kristiansen,24.3,59.1
+16,87182.0,Jannik Vestergaard,99165.0,Danny Ward,21.3,72.9
+16,99165.0,Danny Ward,87182.0,Jannik Vestergaard,16.3,46.1
+16,87182.0,Jannik Vestergaard,99165.0,Danny Ward,23.3,71.2
+16,99165.0,Danny Ward,345664.0,Boubakary Soumaré,10.5,44.2
+17,345664.0,Boubakary Soumaré,301441.0,James Justin,35.3,28.8
+20,433572.0,Bilal El Khannouss,99165.0,Danny Ward,49.9,50.1
+20,99165.0,Danny Ward,301441.0,James Justin,26.2,44.6
+20,345664.0,Boubakary Soumaré,97710.0,Conor Coady,60.5,32.5
+20,97710.0,Conor Coady,87182.0,Jannik Vestergaard,52.5,23.1
+20,87182.0,Jannik Vestergaard,416970.0,Victor Kristiansen,43.8,41.2
+20,416970.0,Victor Kristiansen,318750.0,Stephy Mavididi,39.9,73.0
+20,318750.0,Stephy Mavididi,416970.0,Victor Kristiansen,41.2,75.7
+20,416970.0,Victor Kristiansen,99165.0,Danny Ward,27.1,97.7
+20,67491.0,Jordan Ayew,87182.0,Jannik Vestergaard,38.8,66.6
+20,87182.0,Jannik Vestergaard,97710.0,Conor Coady,34.3,47.6
+20,97710.0,Conor Coady,301441.0,James Justin,39.0,26.4
+20,301441.0,James Justin,364215.0,Oliver Skipp,53.7,6.4
+20,364215.0,Oliver Skipp,301441.0,James Justin,50.9,16.2
+21,301441.0,James Justin,87182.0,Jannik Vestergaard,45.4,30.1
+21,87182.0,Jannik Vestergaard,364215.0,Oliver Skipp,43.7,44.3
+21,364215.0,Oliver Skipp,318750.0,Stephy Mavididi,47.8,36.7
+21,318750.0,Stephy Mavididi,87182.0,Jannik Vestergaard,47.9,58.5
+21,87182.0,Jannik Vestergaard,99165.0,Danny Ward,37.3,52.7
+21,99165.0,Danny Ward,416970.0,Victor Kristiansen,22.0,54.2
+21,416970.0,Victor Kristiansen,433572.0,Bilal El Khannouss,32.3,87.4
+22,433572.0,Bilal El Khannouss,345664.0,Boubakary Soumaré,31.7,49.3
+22,345664.0,Boubakary Soumaré,67491.0,Jordan Ayew,33.6,44.9
+23,67491.0,Jordan Ayew,364215.0,Oliver Skipp,45.7,36.1
+23,364215.0,Oliver Skipp,301441.0,James Justin,39.0,27.1
+23,416970.0,Victor Kristiansen,345664.0,Boubakary Soumaré,46.2,96.3
+23,345664.0,Boubakary Soumaré,318750.0,Stephy Mavididi,51.7,71.8
+23,318750.0,Stephy Mavididi,433572.0,Bilal El Khannouss,64.7,85.9
+23,433572.0,Bilal El Khannouss,345664.0,Boubakary Soumaré,66.5,96.8
+23,345664.0,Boubakary Soumaré,301441.0,James Justin,63.8,66.4
+24,97710.0,Conor Coady,345664.0,Boubakary Soumaré,13.8,37.7
+24,345664.0,Boubakary Soumaré,433572.0,Bilal El Khannouss,18.7,43.9
+24,364215.0,Oliver Skipp,318750.0,Stephy Mavididi,56.9,59.6
+25,67491.0,Jordan Ayew,433572.0,Bilal El Khannouss,60.8,38.3
+25,433572.0,Bilal El Khannouss,364215.0,Oliver Skipp,70.7,53.1
+26,67491.0,Jordan Ayew,345664.0,Boubakary Soumaré,64.2,100.0
+26,345664.0,Boubakary Soumaré,67491.0,Jordan Ayew,64.6,94.1
+26,67491.0,Jordan Ayew,345664.0,Boubakary Soumaré,64.1,96.2
+26,345664.0,Boubakary Soumaré,87182.0,Jannik Vestergaard,63.0,89.4
+27,87182.0,Jannik Vestergaard,97710.0,Conor Coady,53.8,65.4
+27,97710.0,Conor Coady,364215.0,Oliver Skipp,52.8,35.4
+27,364215.0,Oliver Skipp,416970.0,Victor Kristiansen,56.8,43.4
+27,416970.0,Victor Kristiansen,318750.0,Stephy Mavididi,61.1,85.4
+27,318750.0,Stephy Mavididi,433572.0,Bilal El Khannouss,81.7,91.2
+27,416970.0,Victor Kristiansen,106981.0,Jamie Vardy,99.4,0.5
+27,106981.0,Jamie Vardy,87182.0,Jannik Vestergaard,99.3,60.3
+29,87182.0,Jannik Vestergaard,99165.0,Danny Ward,4.3,58.1
+29,99165.0,Danny Ward,67491.0,Jordan Ayew,10.8,41.0
+29,318750.0,Stephy Mavididi,433572.0,Bilal El Khannouss,63.6,57.5
+30,99165.0,Danny Ward,87182.0,Jannik Vestergaard,13.9,33.3
+30,87182.0,Jannik Vestergaard,364215.0,Oliver Skipp,21.2,46.9
+31,364215.0,Oliver Skipp,416970.0,Victor Kristiansen,33.9,51.9
+31,416970.0,Victor Kristiansen,87182.0,Jannik Vestergaard,30.3,81.4
+31,87182.0,Jannik Vestergaard,106981.0,Jamie Vardy,23.2,51.8
+31,87182.0,Jannik Vestergaard,416970.0,Victor Kristiansen,33.5,49.4
+31,416970.0,Victor Kristiansen,433572.0,Bilal El Khannouss,32.1,69.6
+31,433572.0,Bilal El Khannouss,416970.0,Victor Kristiansen,46.3,94.1
+31,416970.0,Victor Kristiansen,87182.0,Jannik Vestergaard,34.7,76.1
+31,87182.0,Jannik Vestergaard,416970.0,Victor Kristiansen,33.3,50.1
+31,416970.0,Victor Kristiansen,318750.0,Stephy Mavididi,37.8,83.6
+31,416970.0,Victor Kristiansen,87182.0,Jannik Vestergaard,32.8,74.4
+31,87182.0,Jannik Vestergaard,106981.0,Jamie Vardy,29.9,52.7
+31,106981.0,Jamie Vardy,97710.0,Conor Coady,43.5,51.0
+31,97710.0,Conor Coady,301441.0,James Justin,55.9,9.8
+31,301441.0,James Justin,364215.0,Oliver Skipp,65.9,2.6
+31,364215.0,Oliver Skipp,87182.0,Jannik Vestergaard,56.5,24.9
+32,87182.0,Jannik Vestergaard,416970.0,Victor Kristiansen,46.1,40.4
+32,416970.0,Victor Kristiansen,318750.0,Stephy Mavididi,51.8,71.8
+32,318750.0,Stephy Mavididi,416970.0,Victor Kristiansen,58.9,91.2
+32,416970.0,Victor Kristiansen,99165.0,Danny Ward,35.1,84.8
+32,99165.0,Danny Ward,345664.0,Boubakary Soumaré,14.3,60.5
+32,345664.0,Boubakary Soumaré,99165.0,Danny Ward,30.2,61.8
+32,99165.0,Danny Ward,364215.0,Oliver Skipp,7.6,51.5
+32,364215.0,Oliver Skipp,87182.0,Jannik Vestergaard,25.6,37.4
+32,87182.0,Jannik Vestergaard,97710.0,Conor Coady,28.6,8.2
+32,97710.0,Conor Coady,301441.0,James Justin,39.8,1.9
+32,97710.0,Conor Coady,67491.0,Jordan Ayew,34.4,6.8
+32,87182.0,Jannik Vestergaard,318750.0,Stephy Mavididi,38.3,36.7
+32,345664.0,Boubakary Soumaré,97710.0,Conor Coady,53.7,51.3
+33,97710.0,Conor Coady,364215.0,Oliver Skipp,52.6,25.8
+33,364215.0,Oliver Skipp,301441.0,James Justin,65.9,29.4
+33,301441.0,James Justin,364215.0,Oliver Skipp,70.5,3.5
+33,364215.0,Oliver Skipp,87182.0,Jannik Vestergaard,61.3,10.6
+33,87182.0,Jannik Vestergaard,416970.0,Victor Kristiansen,48.2,44.5
+33,416970.0,Victor Kristiansen,318750.0,Stephy Mavididi,51.3,68.4
+33,318750.0,Stephy Mavididi,433572.0,Bilal El Khannouss,65.2,95.1
+33,433572.0,Bilal El Khannouss,345664.0,Boubakary Soumaré,66.2,87.2
+33,345664.0,Boubakary Soumaré,433572.0,Bilal El Khannouss,63.4,71.1
+33,318750.0,Stephy Mavididi,345664.0,Boubakary Soumaré,67.7,86.8
+33,345664.0,Boubakary Soumaré,416970.0,Victor Kristiansen,66.6,72.9
+33,416970.0,Victor Kristiansen,345664.0,Boubakary Soumaré,63.9,91.1
+33,345664.0,Boubakary Soumaré,364215.0,Oliver Skipp,59.5,68.4
+34,301441.0,James Justin,67491.0,Jordan Ayew,67.7,1.4
+37,433572.0,Bilal El Khannouss,99165.0,Danny Ward,49.7,50.4
+37,99165.0,Danny Ward,301441.0,James Justin,26.6,49.3
+37,97710.0,Conor Coady,87182.0,Jannik Vestergaard,30.9,9.5
+37,87182.0,Jannik Vestergaard,364215.0,Oliver Skipp,33.8,45.7
+37,364215.0,Oliver Skipp,87182.0,Jannik Vestergaard,42.4,38.3
+37,87182.0,Jannik Vestergaard,97710.0,Conor Coady,37.5,33.4
+37,97710.0,Conor Coady,67491.0,Jordan Ayew,44.1,5.0
+37,67491.0,Jordan Ayew,364215.0,Oliver Skipp,61.8,10.6
+37,364215.0,Oliver Skipp,97710.0,Conor Coady,46.4,13.5
+37,97710.0,Conor Coady,87182.0,Jannik Vestergaard,35.7,21.6
+37,87182.0,Jannik Vestergaard,416970.0,Victor Kristiansen,34.7,48.1
+38,433572.0,Bilal El Khannouss,345664.0,Boubakary Soumaré,68.5,100.0
+38,345664.0,Boubakary Soumaré,364215.0,Oliver Skipp,61.6,82.6
+38,364215.0,Oliver Skipp,97710.0,Conor Coady,53.4,52.1
+38,97710.0,Conor Coady,87182.0,Jannik Vestergaard,52.8,28.0
+38,87182.0,Jannik Vestergaard,345664.0,Boubakary Soumaré,53.3,59.6
+38,345664.0,Boubakary Soumaré,433572.0,Bilal El Khannouss,58.8,61.7
+38,433572.0,Bilal El Khannouss,416970.0,Victor Kristiansen,70.8,68.4
+38,416970.0,Victor Kristiansen,318750.0,Stephy Mavididi,64.2,87.5
+38,318750.0,Stephy Mavididi,345664.0,Boubakary Soumaré,73.0,87.1
+39,364215.0,Oliver Skipp,318750.0,Stephy Mavididi,17.6,62.9
+39,345664.0,Boubakary Soumaré,99165.0,Danny Ward,19.0,73.8
+39,99165.0,Danny Ward,97710.0,Conor Coady,3.0,50.7
+39,97710.0,Conor Coady,345664.0,Boubakary Soumaré,36.5,17.1
+39,345664.0,Boubakary Soumaré,364215.0,Oliver Skipp,40.1,30.0
+39,364215.0,Oliver Skipp,301441.0,James Justin,59.0,17.9
+39,301441.0,James Justin,364215.0,Oliver Skipp,70.3,6.7
+39,364215.0,Oliver Skipp,345664.0,Boubakary Soumaré,61.8,12.0
+39,345664.0,Boubakary Soumaré,433572.0,Bilal El Khannouss,56.4,33.4
+40,416970.0,Victor Kristiansen,87182.0,Jannik Vestergaard,34.4,100.0
+40,87182.0,Jannik Vestergaard,345664.0,Boubakary Soumaré,33.8,82.0
+40,345664.0,Boubakary Soumaré,87182.0,Jannik Vestergaard,45.6,72.3
+40,87182.0,Jannik Vestergaard,364215.0,Oliver Skipp,38.9,61.4
+40,364215.0,Oliver Skipp,67491.0,Jordan Ayew,48.1,47.0
+40,67491.0,Jordan Ayew,301441.0,James Justin,70.4,16.8
+40,345664.0,Boubakary Soumaré,433572.0,Bilal El Khannouss,32.3,89.7
+41,99165.0,Danny Ward,416970.0,Victor Kristiansen,8.7,76.0
+41,416970.0,Victor Kristiansen,345664.0,Boubakary Soumaré,26.3,83.2
+41,345664.0,Boubakary Soumaré,364215.0,Oliver Skipp,32.4,64.6
+42,364215.0,Oliver Skipp,301441.0,James Justin,49.2,18.3
+42,301441.0,James Justin,97710.0,Conor Coady,56.6,4.3
+42,97710.0,Conor Coady,345664.0,Boubakary Soumaré,46.9,30.0
+42,345664.0,Boubakary Soumaré,318750.0,Stephy Mavididi,58.9,71.8
+44,433572.0,Bilal El Khannouss,99165.0,Danny Ward,50.2,50.0
+44,99165.0,Danny Ward,301441.0,James Justin,29.8,44.2
+44,301441.0,James Justin,106981.0,Jamie Vardy,70.4,6.2
+45,364215.0,Oliver Skipp,106981.0,Jamie Vardy,33.6,9.7
+45,106981.0,Jamie Vardy,433572.0,Bilal El Khannouss,74.8,19.5
+46,301441.0,James Justin,364215.0,Oliver Skipp,58.7,0.0
+46,364215.0,Oliver Skipp,301441.0,James Justin,60.3,11.3
+46,433572.0,Bilal El Khannouss,87182.0,Jannik Vestergaard,64.3,4.3
+47,318750.0,Stephy Mavididi,416970.0,Victor Kristiansen,77.7,100.0
+47,87182.0,Jannik Vestergaard,97710.0,Conor Coady,46.4,86.0
+47,97710.0,Conor Coady,364215.0,Oliver Skipp,43.9,49.6
+47,364215.0,Oliver Skipp,433572.0,Bilal El Khannouss,52.9,41.9
+45,433572.0,Bilal El Khannouss,99165.0,Danny Ward,50.1,50.1
+45,143990.0,Harry Winks,97710.0,Conor Coady,59.9,23.9
+45,97710.0,Conor Coady,143990.0,Harry Winks,50.8,20.1
+45,143990.0,Harry Winks,433572.0,Bilal El Khannouss,56.4,27.9
+45,433572.0,Bilal El Khannouss,416970.0,Victor Kristiansen,60.2,50.6
+45,416970.0,Victor Kristiansen,318750.0,Stephy Mavididi,49.6,65.5
+45,318750.0,Stephy Mavididi,416970.0,Victor Kristiansen,58.4,86.2
+45,416970.0,Victor Kristiansen,299693.0,Wout Faes,43.5,70.0
+45,345664.0,Boubakary Soumaré,67491.0,Jordan Ayew,60.9,33.4
+45,301441.0,James Justin,143990.0,Harry Winks,67.5,25.0
+45,143990.0,Harry Winks,299693.0,Wout Faes,52.0,27.0
+45,299693.0,Wout Faes,97710.0,Conor Coady,46.4,36.0
+45,97710.0,Conor Coady,143990.0,Harry Winks,47.5,11.9
+45,143990.0,Harry Winks,299693.0,Wout Faes,54.4,30.4
+45,299693.0,Wout Faes,416970.0,Victor Kristiansen,47.5,50.4
+45,416970.0,Victor Kristiansen,299693.0,Wout Faes,48.5,66.0
+45,299693.0,Wout Faes,143990.0,Harry Winks,45.0,49.0
+45,143990.0,Harry Winks,299693.0,Wout Faes,53.6,42.5
+45,299693.0,Wout Faes,301441.0,James Justin,47.0,44.8
+46,416970.0,Victor Kristiansen,299693.0,Wout Faes,45.7,100.0
+46,299693.0,Wout Faes,345664.0,Boubakary Soumaré,35.5,83.6
+46,345664.0,Boubakary Soumaré,143990.0,Harry Winks,46.9,73.2
+46,143990.0,Harry Winks,97710.0,Conor Coady,51.6,51.9
+46,97710.0,Conor Coady,299693.0,Wout Faes,46.2,30.1
+46,299693.0,Wout Faes,433572.0,Bilal El Khannouss,48.4,50.4
+46,433572.0,Bilal El Khannouss,416970.0,Victor Kristiansen,55.5,76.9
+46,416970.0,Victor Kristiansen,299693.0,Wout Faes,47.5,67.9
+46,299693.0,Wout Faes,345664.0,Boubakary Soumaré,52.9,53.3
+46,345664.0,Boubakary Soumaré,318750.0,Stephy Mavididi,59.4,80.0
+46,318750.0,Stephy Mavididi,433572.0,Bilal El Khannouss,66.6,96.2
+46,433572.0,Bilal El Khannouss,318750.0,Stephy Mavididi,68.5,85.7
+46,318750.0,Stephy Mavididi,416970.0,Victor Kristiansen,64.9,93.0
+46,416970.0,Victor Kristiansen,299693.0,Wout Faes,52.1,81.5
+46,299693.0,Wout Faes,97710.0,Conor Coady,47.2,57.8
+47,97710.0,Conor Coady,299693.0,Wout Faes,45.7,42.7
+47,299693.0,Wout Faes,416970.0,Victor Kristiansen,43.4,62.3
+47,416970.0,Victor Kristiansen,433572.0,Bilal El Khannouss,44.9,91.2
+47,433572.0,Bilal El Khannouss,416970.0,Victor Kristiansen,48.3,98.0
+47,416970.0,Victor Kristiansen,299693.0,Wout Faes,36.9,94.7
+48,416970.0,Victor Kristiansen,299693.0,Wout Faes,34.0,89.7
+48,299693.0,Wout Faes,345664.0,Boubakary Soumaré,24.7,66.3
+48,345664.0,Boubakary Soumaré,143990.0,Harry Winks,34.5,63.9
+48,143990.0,Harry Winks,301441.0,James Justin,40.4,41.2
+48,301441.0,James Justin,67491.0,Jordan Ayew,53.9,4.4
+48,67491.0,Jordan Ayew,67491.0,Jordan Ayew,66.5,6.5
+48,97710.0,Conor Coady,299693.0,Wout Faes,56.1,16.5
+48,299693.0,Wout Faes,416970.0,Victor Kristiansen,46.7,34.5
+49,416970.0,Victor Kristiansen,345664.0,Boubakary Soumaré,53.8,83.3
+49,345664.0,Boubakary Soumaré,433572.0,Bilal El Khannouss,52.8,68.7
+49,433572.0,Bilal El Khannouss,345664.0,Boubakary Soumaré,59.5,68.7
+49,345664.0,Boubakary Soumaré,416970.0,Victor Kristiansen,52.7,69.3
+52,301441.0,James Justin,97710.0,Conor Coady,34.2,0.0
+52,97710.0,Conor Coady,299693.0,Wout Faes,23.2,15.9
+52,299693.0,Wout Faes,143990.0,Harry Winks,34.8,47.8
+52,143990.0,Harry Winks,301441.0,James Justin,38.1,33.3
+53,97710.0,Conor Coady,299693.0,Wout Faes,50.3,2.2
+53,299693.0,Wout Faes,143990.0,Harry Winks,37.2,31.9
+53,143990.0,Harry Winks,416970.0,Victor Kristiansen,45.4,51.0
+53,416970.0,Victor Kristiansen,312670.0,Hamza Choudhury,44.3,70.0
+53,312670.0,Hamza Choudhury,97710.0,Conor Coady,47.0,44.0
+53,97710.0,Conor Coady,299693.0,Wout Faes,42.3,15.2
+53,299693.0,Wout Faes,416970.0,Victor Kristiansen,39.8,44.3
+53,416970.0,Victor Kristiansen,67491.0,Jordan Ayew,40.0,73.6
+53,67491.0,Jordan Ayew,299693.0,Wout Faes,41.3,75.1
+53,299693.0,Wout Faes,97710.0,Conor Coady,38.0,41.8
+53,97710.0,Conor Coady,299693.0,Wout Faes,45.6,35.1
+53,299693.0,Wout Faes,312670.0,Hamza Choudhury,45.9,43.9
+53,312670.0,Hamza Choudhury,143990.0,Harry Winks,52.8,40.7
+53,143990.0,Harry Winks,67491.0,Jordan Ayew,53.6,52.8
+54,318750.0,Stephy Mavididi,143990.0,Harry Winks,88.3,100.0
+54,143990.0,Harry Winks,318750.0,Stephy Mavididi,73.4,96.8
+54,318750.0,Stephy Mavididi,345664.0,Boubakary Soumaré,78.7,96.2
+54,345664.0,Boubakary Soumaré,416970.0,Victor Kristiansen,73.1,83.3
+54,416970.0,Victor Kristiansen,299693.0,Wout Faes,61.9,91.2
+54,299693.0,Wout Faes,318750.0,Stephy Mavididi,58.0,72.9
+55,318750.0,Stephy Mavididi,143990.0,Harry Winks,55.4,88.9
+55,143990.0,Harry Winks,134332.0,Bobby De Cordova-Reid,46.9,69.1
+55,134332.0,Bobby De Cordova-Reid,312670.0,Hamza Choudhury,54.3,44.2
+55,312670.0,Hamza Choudhury,143990.0,Harry Winks,46.7,47.5
+55,143990.0,Harry Winks,67491.0,Jordan Ayew,58.6,68.5
+55,67491.0,Jordan Ayew,345664.0,Boubakary Soumaré,73.9,69.1
+55,345664.0,Boubakary Soumaré,67491.0,Jordan Ayew,71.2,55.8
+55,67491.0,Jordan Ayew,134332.0,Bobby De Cordova-Reid,71.6,41.0
+55,134332.0,Bobby De Cordova-Reid,312670.0,Hamza Choudhury,75.1,15.0
+55,312670.0,Hamza Choudhury,97710.0,Conor Coady,68.3,24.9
+55,97710.0,Conor Coady,299693.0,Wout Faes,59.4,24.9
+55,299693.0,Wout Faes,416970.0,Victor Kristiansen,60.4,48.4
+55,416970.0,Victor Kristiansen,318750.0,Stephy Mavididi,66.2,77.2
+55,318750.0,Stephy Mavididi,345664.0,Boubakary Soumaré,82.3,91.4
+56,318750.0,Stephy Mavididi,345664.0,Boubakary Soumaré,32.1,93.9
+56,99165.0,Danny Ward,416970.0,Victor Kristiansen,9.0,57.5
+56,416970.0,Victor Kristiansen,299693.0,Wout Faes,20.4,81.8
+56,299693.0,Wout Faes,312670.0,Hamza Choudhury,23.0,59.4
+56,312670.0,Hamza Choudhury,143990.0,Harry Winks,27.9,54.0
+56,143990.0,Harry Winks,299693.0,Wout Faes,30.9,49.0
+56,299693.0,Wout Faes,97710.0,Conor Coady,24.9,41.0
+57,143990.0,Harry Winks,318750.0,Stephy Mavididi,62.6,43.0
+58,345664.0,Boubakary Soumaré,318750.0,Stephy Mavididi,44.9,72.4
+58,318750.0,Stephy Mavididi,345664.0,Boubakary Soumaré,44.7,75.1
+58,143990.0,Harry Winks,134332.0,Bobby De Cordova-Reid,45.5,35.1
+58,134332.0,Bobby De Cordova-Reid,106981.0,Jamie Vardy,58.3,4.4
+58,67491.0,Jordan Ayew,312670.0,Hamza Choudhury,84.3,0.0
+59,312670.0,Hamza Choudhury,67491.0,Jordan Ayew,75.8,6.1
+59,67491.0,Jordan Ayew,312670.0,Hamza Choudhury,79.8,2.6
+59,312670.0,Hamza Choudhury,97710.0,Conor Coady,72.7,6.4
+59,97710.0,Conor Coady,318750.0,Stephy Mavididi,65.7,18.0
+59,318750.0,Stephy Mavididi,345664.0,Boubakary Soumaré,78.0,85.4
+59,345664.0,Boubakary Soumaré,67491.0,Jordan Ayew,91.0,85.1
+59,143990.0,Harry Winks,345664.0,Boubakary Soumaré,29.3,68.2
+59,345664.0,Boubakary Soumaré,318750.0,Stephy Mavididi,34.1,62.9
+60,312670.0,Hamza Choudhury,143990.0,Harry Winks,14.6,0.0
+60,143990.0,Harry Winks,345664.0,Boubakary Soumaré,16.0,11.1
+60,345664.0,Boubakary Soumaré,97710.0,Conor Coady,20.1,30.7
+60,97710.0,Conor Coady,106981.0,Jamie Vardy,6.8,10.6
+60,106981.0,Jamie Vardy,67491.0,Jordan Ayew,47.3,25.2
+60,67491.0,Jordan Ayew,97710.0,Conor Coady,59.4,6.8
+60,97710.0,Conor Coady,345664.0,Boubakary Soumaré,42.2,30.9
+60,345664.0,Boubakary Soumaré,318750.0,Stephy Mavididi,53.6,58.8
+60,318750.0,Stephy Mavididi,345664.0,Boubakary Soumaré,72.4,88.9
+61,312670.0,Hamza Choudhury,134332.0,Bobby De Cordova-Reid,72.6,15.3
+62,67491.0,Jordan Ayew,106981.0,Jamie Vardy,83.8,6.2
+63,143990.0,Harry Winks,345664.0,Boubakary Soumaré,22.7,23.4
+63,345664.0,Boubakary Soumaré,143990.0,Harry Winks,27.5,29.7
+63,143990.0,Harry Winks,97710.0,Conor Coady,21.9,29.2
+63,97710.0,Conor Coady,299693.0,Wout Faes,14.3,40.6
+63,299693.0,Wout Faes,318750.0,Stephy Mavididi,54.9,70.3
+64,416970.0,Victor Kristiansen,318750.0,Stephy Mavididi,85.5,100.0
+64,318750.0,Stephy Mavididi,345664.0,Boubakary Soumaré,77.3,90.6
+64,345664.0,Boubakary Soumaré,312670.0,Hamza Choudhury,68.3,68.8
+64,312670.0,Hamza Choudhury,299693.0,Wout Faes,65.3,34.9
+64,299693.0,Wout Faes,318750.0,Stephy Mavididi,68.4,62.1
+65,143990.0,Harry Winks,134332.0,Bobby De Cordova-Reid,63.3,23.4
+65,134332.0,Bobby De Cordova-Reid,67491.0,Jordan Ayew,62.8,8.8
+66,312670.0,Hamza Choudhury,67491.0,Jordan Ayew,56.1,1.3
+66,67491.0,Jordan Ayew,143990.0,Harry Winks,63.6,3.7
+66,143990.0,Harry Winks,312670.0,Hamza Choudhury,59.5,11.1
+66,312670.0,Hamza Choudhury,299693.0,Wout Faes,53.5,5.9
+66,299693.0,Wout Faes,143990.0,Harry Winks,44.7,36.4
+66,143990.0,Harry Winks,312670.0,Hamza Choudhury,56.8,31.0
+66,312670.0,Hamza Choudhury,134332.0,Bobby De Cordova-Reid,65.1,23.0
+66,134332.0,Bobby De Cordova-Reid,312670.0,Hamza Choudhury,78.8,8.6
+67,106981.0,Jamie Vardy,318750.0,Stephy Mavididi,55.7,86.2
+67,318750.0,Stephy Mavididi,143990.0,Harry Winks,59.0,72.4
+67,143990.0,Harry Winks,345664.0,Boubakary Soumaré,51.0,79.9
+68,299693.0,Wout Faes,97710.0,Conor Coady,3.7,54.0
+69,97710.0,Conor Coady,312670.0,Hamza Choudhury,9.1,34.4
+69,312670.0,Hamza Choudhury,67491.0,Jordan Ayew,29.0,38.5
+69,143990.0,Harry Winks,134332.0,Bobby De Cordova-Reid,64.8,18.6
+71,299693.0,Wout Faes,312670.0,Hamza Choudhury,4.3,57.9
+72,312670.0,Hamza Choudhury,299693.0,Wout Faes,37.3,39.2
+72,299693.0,Wout Faes,416970.0,Victor Kristiansen,41.2,63.7
+72,416970.0,Victor Kristiansen,299693.0,Wout Faes,56.1,86.8
+72,299693.0,Wout Faes,416970.0,Victor Kristiansen,49.6,67.2
+72,416970.0,Victor Kristiansen,318750.0,Stephy Mavididi,58.7,92.6
+72,318750.0,Stephy Mavididi,416970.0,Victor Kristiansen,65.8,96.3
+72,416970.0,Victor Kristiansen,97710.0,Conor Coady,51.0,86.2
+72,97710.0,Conor Coady,299693.0,Wout Faes,54.2,43.1
+73,312670.0,Hamza Choudhury,97710.0,Conor Coady,60.1,0.0
+73,97710.0,Conor Coady,299693.0,Wout Faes,48.8,21.9
+73,299693.0,Wout Faes,345664.0,Boubakary Soumaré,55.0,55.4
+73,99165.0,Danny Ward,97710.0,Conor Coady,4.7,49.9
+73,97710.0,Conor Coady,299693.0,Wout Faes,36.1,31.9
+74,299693.0,Wout Faes,312670.0,Hamza Choudhury,37.8,52.4
+74,312670.0,Hamza Choudhury,345664.0,Boubakary Soumaré,47.2,46.6
+74,312670.0,Hamza Choudhury,67491.0,Jordan Ayew,55.2,44.5
+74,67491.0,Jordan Ayew,312670.0,Hamza Choudhury,64.3,31.6
+74,312670.0,Hamza Choudhury,134332.0,Bobby De Cordova-Reid,58.6,28.6
+74,134332.0,Bobby De Cordova-Reid,97710.0,Conor Coady,64.0,9.4
+74,97710.0,Conor Coady,416970.0,Victor Kristiansen,59.2,34.3
+74,416970.0,Victor Kristiansen,318750.0,Stephy Mavididi,62.4,72.7
+74,318750.0,Stephy Mavididi,416970.0,Victor Kristiansen,69.1,94.7
+74,416970.0,Victor Kristiansen,299693.0,Wout Faes,61.7,83.2
+74,299693.0,Wout Faes,97710.0,Conor Coady,57.4,46.6
+74,97710.0,Conor Coady,312670.0,Hamza Choudhury,55.1,34.5
+74,312670.0,Hamza Choudhury,134332.0,Bobby De Cordova-Reid,61.3,33.1
+74,134332.0,Bobby De Cordova-Reid,67491.0,Jordan Ayew,70.1,13.5
+74,67491.0,Jordan Ayew,312670.0,Hamza Choudhury,73.7,15.6
+74,312670.0,Hamza Choudhury,143990.0,Harry Winks,66.1,18.8
+74,134332.0,Bobby De Cordova-Reid,67491.0,Jordan Ayew,79.9,0.0
+75,299693.0,Wout Faes,143990.0,Harry Winks,40.8,12.2
+75,143990.0,Harry Winks,345664.0,Boubakary Soumaré,48.3,9.5
+75,345664.0,Boubakary Soumaré,416970.0,Victor Kristiansen,54.3,42.5
+75,416970.0,Victor Kristiansen,345664.0,Boubakary Soumaré,68.6,86.8
+75,345664.0,Boubakary Soumaré,416970.0,Victor Kristiansen,62.2,74.1
+75,416970.0,Victor Kristiansen,299693.0,Wout Faes,58.4,86.9
+75,299693.0,Wout Faes,143990.0,Harry Winks,46.2,58.7
+75,143990.0,Harry Winks,67491.0,Jordan Ayew,61.7,40.9
+76,143990.0,Harry Winks,67491.0,Jordan Ayew,71.1,22.7
+78,416970.0,Victor Kristiansen,318750.0,Stephy Mavididi,22.0,100.0
+78,318750.0,Stephy Mavididi,416970.0,Victor Kristiansen,26.7,93.8
+78,416970.0,Victor Kristiansen,67491.0,Jordan Ayew,20.0,97.1
+78,67491.0,Jordan Ayew,143990.0,Harry Winks,32.0,96.8
+78,143990.0,Harry Winks,345664.0,Boubakary Soumaré,32.4,73.5
+78,345664.0,Boubakary Soumaré,134332.0,Bobby De Cordova-Reid,52.7,44.5
+79,416970.0,Victor Kristiansen,345664.0,Boubakary Soumaré,59.3,96.0
+79,345664.0,Boubakary Soumaré,134332.0,Bobby De Cordova-Reid,61.2,71.8
+80,67491.0,Jordan Ayew,143990.0,Harry Winks,76.3,1.4
+80,143990.0,Harry Winks,67491.0,Jordan Ayew,65.7,10.1
+80,67491.0,Jordan Ayew,143990.0,Harry Winks,74.9,14.0
+80,143990.0,Harry Winks,312670.0,Hamza Choudhury,64.1,16.2
+80,312670.0,Hamza Choudhury,143990.0,Harry Winks,72.2,14.1
+80,345664.0,Boubakary Soumaré,67491.0,Jordan Ayew,69.1,33.7
+80,67491.0,Jordan Ayew,143990.0,Harry Winks,70.1,23.4
+80,143990.0,Harry Winks,106981.0,Jamie Vardy,71.2,12.7
+81,312670.0,Hamza Choudhury,99165.0,Danny Ward,27.9,13.2
+81,99165.0,Danny Ward,299693.0,Wout Faes,9.7,43.3
+81,299693.0,Wout Faes,345664.0,Boubakary Soumaré,19.0,53.9
+81,345664.0,Boubakary Soumaré,299693.0,Wout Faes,27.4,52.4
+81,299693.0,Wout Faes,143990.0,Harry Winks,29.4,46.4
+81,143990.0,Harry Winks,97710.0,Conor Coady,40.2,33.6
+81,97710.0,Conor Coady,299693.0,Wout Faes,30.8,31.5
+81,299693.0,Wout Faes,312670.0,Hamza Choudhury,34.6,48.7
+81,312670.0,Hamza Choudhury,299693.0,Wout Faes,46.4,38.3
+81,299693.0,Wout Faes,416970.0,Victor Kristiansen,55.0,59.9
+81,416970.0,Victor Kristiansen,345664.0,Boubakary Soumaré,68.4,93.0
+81,345664.0,Boubakary Soumaré,143990.0,Harry Winks,71.9,79.3
+83,99165.0,Danny Ward,299693.0,Wout Faes,5.0,50.3
+83,299693.0,Wout Faes,416970.0,Victor Kristiansen,19.5,49.5
+83,416970.0,Victor Kristiansen,143990.0,Harry Winks,38.2,70.7
+83,143990.0,Harry Winks,97710.0,Conor Coady,41.6,56.6
+83,97710.0,Conor Coady,299693.0,Wout Faes,37.7,33.1
+83,299693.0,Wout Faes,345664.0,Boubakary Soumaré,41.3,55.1
+83,345664.0,Boubakary Soumaré,416970.0,Victor Kristiansen,66.8,89.6
+84,99165.0,Danny Ward,416970.0,Victor Kristiansen,7.4,53.0
+84,416970.0,Victor Kristiansen,318750.0,Stephy Mavididi,43.6,72.7
+86,416970.0,Victor Kristiansen,432384.0,Facundo Buonanotte,72.2,84.1
+86,432384.0,Facundo Buonanotte,143990.0,Harry Winks,69.5,75.8
+86,143990.0,Harry Winks,312670.0,Hamza Choudhury,64.7,61.4
+87,312670.0,Hamza Choudhury,299693.0,Wout Faes,65.3,34.9
+87,299693.0,Wout Faes,416970.0,Victor Kristiansen,62.4,63.7
+87,416970.0,Victor Kristiansen,143990.0,Harry Winks,67.8,81.7
+87,97710.0,Conor Coady,143990.0,Harry Winks,22.8,8.0
+87,143990.0,Harry Winks,432384.0,Facundo Buonanotte,38.2,8.9
+88,97710.0,Conor Coady,143990.0,Harry Winks,45.1,26.7
+88,143990.0,Harry Winks,432384.0,Facundo Buonanotte,53.3,32.1
+89,312670.0,Hamza Choudhury,106981.0,Jamie Vardy,75.0,14.1
+90,143990.0,Harry Winks,97710.0,Conor Coady,30.2,100.0
+90,97710.0,Conor Coady,143990.0,Harry Winks,23.0,88.6
+90,143990.0,Harry Winks,299693.0,Wout Faes,36.1,72.6
+90,299693.0,Wout Faes,416970.0,Victor Kristiansen,45.1,38.9
+90,416970.0,Victor Kristiansen,97710.0,Conor Coady,46.8,74.2
+90,97710.0,Conor Coady,134332.0,Bobby De Cordova-Reid,45.6,57.0
+91,143990.0,Harry Winks,432384.0,Facundo Buonanotte,67.3,6.8
+93,299693.0,Wout Faes,99165.0,Danny Ward,22.4,67.2
+93,99165.0,Danny Ward,312670.0,Hamza Choudhury,18.1,46.4
+93,312670.0,Hamza Choudhury,99165.0,Danny Ward,25.6,41.6
+93,99165.0,Danny Ward,143990.0,Harry Winks,14.6,47.0
+93,143990.0,Harry Winks,312670.0,Hamza Choudhury,25.5,51.2
+93,312670.0,Hamza Choudhury,299693.0,Wout Faes,22.6,49.6
+93,299693.0,Wout Faes,345664.0,Boubakary Soumaré,45.5,71.5
+93,345664.0,Boubakary Soumaré,134332.0,Bobby De Cordova-Reid,64.0,46.4
+93,134332.0,Bobby De Cordova-Reid,312670.0,Hamza Choudhury,73.2,30.7
+93,312670.0,Hamza Choudhury,416970.0,Victor Kristiansen,63.0,29.2
+93,416970.0,Victor Kristiansen,299693.0,Wout Faes,59.2,72.3
+93,299693.0,Wout Faes,312670.0,Hamza Choudhury,55.2,55.5
+93,312670.0,Hamza Choudhury,432384.0,Facundo Buonanotte,64.1,34.6

@@ -3,7 +3,7 @@
 ### Python | pandas | mplsoccer | networkx ###
 <br>
 利用 Python 对英超莱斯特城 vs 狼队的比赛事件数据进行量化分析与战术网络拓扑可视化。<br>
-TODO：理解算法并上传；撰写分析。<br>
+TODO：撰写分析。<br>
 比赛地址：https://www.whoscored.com/matches/1821238/live/england-premier-league-2024-2025-leicester-wolves
 
 ## 数据展示板：
